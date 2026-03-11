@@ -1,0 +1,11 @@
+pvp-rewards:
+  kill:
+    money: 50
+    xp: 20
+
+  assist:
+    money: 20
+    xp: 10
+
+  win-match:
+    money: 200
