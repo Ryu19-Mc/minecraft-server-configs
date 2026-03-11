@@ -1,0 +1,21 @@
+crate:
+  name: Rare
+
+  rewards:
+
+    money:
+      type: money
+      amount: 20000
+      chance: 30
+
+    diamonds:
+      item: diamond 32
+      chance: 30
+
+    spawner:
+      item: zombie_spawner 1
+      chance: 20
+
+    crate_key:
+      item: crate_key legendary
+      chance: 20

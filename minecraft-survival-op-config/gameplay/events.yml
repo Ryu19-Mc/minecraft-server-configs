@@ -1,0 +1,13 @@
+events:
+
+  meteor:
+    interval: 2h
+
+    rewards:
+      - diamond_block
+      - netherite_ingot
+      - crate_key mythic
+
+  boss_spawn:
+    interval: 3h
+    boss: wither_king

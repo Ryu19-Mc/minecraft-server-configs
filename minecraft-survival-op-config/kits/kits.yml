@@ -1,0 +1,12 @@
+kits:
+
+  starter:
+    delay: 24h
+
+    items:
+      - diamond_sword sharpness:5
+      - diamond_pickaxe efficiency:5 fortune:3
+      - diamond_helmet protection:4
+      - diamond_chestplate protection:4
+      - diamond_leggings protection:4
+      - diamond_boots protection:4

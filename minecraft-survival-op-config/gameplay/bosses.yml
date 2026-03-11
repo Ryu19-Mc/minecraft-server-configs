@@ -1,0 +1,11 @@
+bosses:
+
+  wither_king:
+
+    health: 5000
+    damage: 20
+
+    drops:
+      - netherite_ingot 10
+      - crate_key god
+      - money 300000

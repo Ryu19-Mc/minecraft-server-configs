@@ -1,0 +1,22 @@
+crate:
+  name: Legendary
+
+  rewards:
+
+    netherite_sword:
+      item: netherite_sword sharpness:6 unbreaking:4
+      chance: 20
+
+    money:
+      type: money
+      amount: 100000
+      chance: 25
+
+    spawner:
+      item: zombie_spawner 2
+      chance: 25
+
+    rank:
+      type: rank
+      rank: vip
+      chance: 5

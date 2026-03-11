@@ -1,0 +1,13 @@
+enchants:
+
+  sniper:
+    max-level: 4
+    type: bow
+
+  explosive_arrow:
+    max-level: 3
+    type: bow
+
+  lightning:
+    max-level: 2
+    type: bow

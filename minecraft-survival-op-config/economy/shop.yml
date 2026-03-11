@@ -1,0 +1,17 @@
+shop:
+
+  diamond:
+    buy: 1000
+    sell: 400
+
+  emerald:
+    buy: 2000
+    sell: 800
+
+  netherite_ingot:
+    buy: 10000
+    sell: 4000
+
+  elytra:
+    buy: 80000
+    sell: 30000

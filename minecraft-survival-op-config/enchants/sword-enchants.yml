@@ -1,0 +1,21 @@
+enchants:
+
+  lifesteal:
+    max-level: 5
+    type: sword
+
+  thunder:
+    max-level: 3
+    type: sword
+
+  bleed:
+    max-level: 4
+    type: sword
+
+  rage:
+    max-level: 5
+    type: sword
+
+  executioner:
+    max-level: 3
+    type: sword

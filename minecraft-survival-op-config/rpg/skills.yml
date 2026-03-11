@@ -1,0 +1,13 @@
+skills:
+
+  mining:
+    max-level: 100
+
+  combat:
+    max-level: 100
+
+  farming:
+    max-level: 100
+
+  fishing:
+    max-level: 100

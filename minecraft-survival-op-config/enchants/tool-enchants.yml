@@ -1,0 +1,13 @@
+enchants:
+
+  veinminer:
+    max-level: 3
+    type: pickaxe
+
+  explosive:
+    max-level: 5
+    type: pickaxe
+
+  fortune_boost:
+    max-level: 5
+    type: pickaxe

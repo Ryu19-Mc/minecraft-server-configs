@@ -1,0 +1,17 @@
+crate:
+  name: God
+
+  rewards:
+
+    god_sword:
+      item: netherite_sword sharpness:10 lifesteal:5 thunder:3
+      chance: 10
+
+    god_armor:
+      item: netherite_chestplate protection:8 overload:3
+      chance: 10
+
+    money:
+      type: money
+      amount: 1000000
+      chance: 20

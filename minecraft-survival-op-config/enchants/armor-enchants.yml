@@ -1,0 +1,17 @@
+enchants:
+
+  overload:
+    max-level: 3
+    type: armor
+
+  tank:
+    max-level: 4
+    type: armor
+
+  vampire:
+    max-level: 3
+    type: armor
+
+  guardian:
+    max-level: 3
+    type: armor

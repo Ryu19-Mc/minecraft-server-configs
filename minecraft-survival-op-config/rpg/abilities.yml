@@ -1,0 +1,17 @@
+abilities:
+
+  haste:
+    skill: mining
+    unlock-level: 10
+
+  double_drops:
+    skill: mining
+    unlock-level: 25
+
+  critical_hit:
+    skill: combat
+    unlock-level: 15
+
+  lifesteal_passive:
+    skill: combat
+    unlock-level: 40

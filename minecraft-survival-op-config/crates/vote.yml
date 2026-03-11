@@ -1,0 +1,21 @@
+crate:
+  name: Vote
+
+  rewards:
+
+    money:
+      type: money
+      amount: 5000
+      chance: 40
+
+    diamonds:
+      item: diamond 16
+      chance: 30
+
+    vote_key:
+      item: crate_key rare
+      chance: 20
+
+    golden_apple:
+      item: golden_apple 8
+      chance: 10

@@ -1,0 +1,10 @@
+loot:
+
+  dungeon_chest:
+    - diamond 5
+    - emerald 3
+    - golden_apple 2
+
+  boss_chest:
+    - netherite_ingot 2
+    - crate_key legendary

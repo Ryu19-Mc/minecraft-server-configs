@@ -1,0 +1,17 @@
+crate:
+  name: Mythic
+
+  rewards:
+
+    mythic_pickaxe:
+      item: netherite_pickaxe efficiency:10 fortune:5
+      chance: 20
+
+    money:
+      type: money
+      amount: 300000
+      chance: 25
+
+    spawner_pack:
+      item: blaze_spawner 3
+      chance: 20
