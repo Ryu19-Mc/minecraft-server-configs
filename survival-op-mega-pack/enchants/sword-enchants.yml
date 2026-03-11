@@ -1,0 +1,200 @@
+enchants:
+
+  sword_enchant_0:
+    max-level: 9
+    description: custom sword enchant 0
+
+
+  sword_enchant_1:
+    max-level: 3
+    description: custom sword enchant 1
+
+
+  sword_enchant_2:
+    max-level: 6
+    description: custom sword enchant 2
+
+
+  sword_enchant_3:
+    max-level: 8
+    description: custom sword enchant 3
+
+
+  sword_enchant_4:
+    max-level: 8
+    description: custom sword enchant 4
+
+
+  sword_enchant_5:
+    max-level: 3
+    description: custom sword enchant 5
+
+
+  sword_enchant_6:
+    max-level: 9
+    description: custom sword enchant 6
+
+
+  sword_enchant_7:
+    max-level: 7
+    description: custom sword enchant 7
+
+
+  sword_enchant_8:
+    max-level: 9
+    description: custom sword enchant 8
+
+
+  sword_enchant_9:
+    max-level: 6
+    description: custom sword enchant 9
+
+
+  sword_enchant_10:
+    max-level: 4
+    description: custom sword enchant 10
+
+
+  sword_enchant_11:
+    max-level: 10
+    description: custom sword enchant 11
+
+
+  sword_enchant_12:
+    max-level: 4
+    description: custom sword enchant 12
+
+
+  sword_enchant_13:
+    max-level: 5
+    description: custom sword enchant 13
+
+
+  sword_enchant_14:
+    max-level: 4
+    description: custom sword enchant 14
+
+
+  sword_enchant_15:
+    max-level: 9
+    description: custom sword enchant 15
+
+
+  sword_enchant_16:
+    max-level: 3
+    description: custom sword enchant 16
+
+
+  sword_enchant_17:
+    max-level: 7
+    description: custom sword enchant 17
+
+
+  sword_enchant_18:
+    max-level: 6
+    description: custom sword enchant 18
+
+
+  sword_enchant_19:
+    max-level: 7
+    description: custom sword enchant 19
+
+
+  sword_enchant_20:
+    max-level: 7
+    description: custom sword enchant 20
+
+
+  sword_enchant_21:
+    max-level: 9
+    description: custom sword enchant 21
+
+
+  sword_enchant_22:
+    max-level: 3
+    description: custom sword enchant 22
+
+
+  sword_enchant_23:
+    max-level: 6
+    description: custom sword enchant 23
+
+
+  sword_enchant_24:
+    max-level: 3
+    description: custom sword enchant 24
+
+
+  sword_enchant_25:
+    max-level: 3
+    description: custom sword enchant 25
+
+
+  sword_enchant_26:
+    max-level: 5
+    description: custom sword enchant 26
+
+
+  sword_enchant_27:
+    max-level: 4
+    description: custom sword enchant 27
+
+
+  sword_enchant_28:
+    max-level: 10
+    description: custom sword enchant 28
+
+
+  sword_enchant_29:
+    max-level: 8
+    description: custom sword enchant 29
+
+
+  sword_enchant_30:
+    max-level: 7
+    description: custom sword enchant 30
+
+
+  sword_enchant_31:
+    max-level: 6
+    description: custom sword enchant 31
+
+
+  sword_enchant_32:
+    max-level: 6
+    description: custom sword enchant 32
+
+
+  sword_enchant_33:
+    max-level: 7
+    description: custom sword enchant 33
+
+
+  sword_enchant_34:
+    max-level: 8
+    description: custom sword enchant 34
+
+
+  sword_enchant_35:
+    max-level: 9
+    description: custom sword enchant 35
+
+
+  sword_enchant_36:
+    max-level: 10
+    description: custom sword enchant 36
+
+
+  sword_enchant_37:
+    max-level: 8
+    description: custom sword enchant 37
+
+
+  sword_enchant_38:
+    max-level: 4
+    description: custom sword enchant 38
+
+
+  sword_enchant_39:
+    max-level: 9
+    description: custom sword enchant 39

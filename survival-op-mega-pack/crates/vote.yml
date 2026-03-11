@@ -1,0 +1,84 @@
+crate:
+  name: Vote
+  key: vote_key
+  rewards:
+
+  reward_0:
+    item: diamond 4
+    chance: 19
+
+  reward_1:
+    item: diamond 39
+    chance: 8
+
+  reward_2:
+    item: diamond 19
+    chance: 17
+
+  reward_3:
+    item: diamond 63
+    chance: 15
+
+  reward_4:
+    item: diamond 57
+    chance: 26
+
+  reward_5:
+    item: diamond 7
+    chance: 19
+
+  reward_6:
+    item: diamond 27
+    chance: 5
+
+  reward_7:
+    item: diamond 58
+    chance: 6
+
+  reward_8:
+    item: diamond 14
+    chance: 12
+
+  reward_9:
+    item: diamond 7
+    chance: 11
+
+  reward_10:
+    item: diamond 43
+    chance: 29
+
+  reward_11:
+    item: diamond 8
+    chance: 2
+
+  reward_12:
+    item: diamond 64
+    chance: 20
+
+  reward_13:
+    item: diamond 47
+    chance: 12
+
+  reward_14:
+    item: diamond 18
+    chance: 6
+
+  reward_15:
+    item: diamond 63
+    chance: 28
+
+  reward_16:
+    item: diamond 9
+    chance: 22
+
+  reward_17:
+    item: diamond 56
+    chance: 5
+
+  reward_18:
+    item: diamond 36
+    chance: 6
+
+  reward_19:
+    item: diamond 20
+    chance: 14

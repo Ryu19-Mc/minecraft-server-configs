@@ -1,0 +1,84 @@
+crate:
+  name: Dungeon
+  key: dungeon_key
+  rewards:
+
+  reward_0:
+    item: diamond 35
+    chance: 1
+
+  reward_1:
+    item: diamond 23
+    chance: 14
+
+  reward_2:
+    item: diamond 33
+    chance: 28
+
+  reward_3:
+    item: diamond 54
+    chance: 14
+
+  reward_4:
+    item: diamond 14
+    chance: 15
+
+  reward_5:
+    item: diamond 36
+    chance: 25
+
+  reward_6:
+    item: diamond 4
+    chance: 12
+
+  reward_7:
+    item: diamond 39
+    chance: 16
+
+  reward_8:
+    item: diamond 9
+    chance: 30
+
+  reward_9:
+    item: diamond 24
+    chance: 29
+
+  reward_10:
+    item: diamond 33
+    chance: 26
+
+  reward_11:
+    item: diamond 9
+    chance: 28
+
+  reward_12:
+    item: diamond 4
+    chance: 27
+
+  reward_13:
+    item: diamond 14
+    chance: 30
+
+  reward_14:
+    item: diamond 15
+    chance: 5
+
+  reward_15:
+    item: diamond 52
+    chance: 25
+
+  reward_16:
+    item: diamond 48
+    chance: 21
+
+  reward_17:
+    item: diamond 37
+    chance: 29
+
+  reward_18:
+    item: diamond 34
+    chance: 29
+
+  reward_19:
+    item: diamond 18
+    chance: 26

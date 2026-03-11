@@ -1,0 +1,84 @@
+crate:
+  name: Mythic
+  key: mythic_key
+  rewards:
+
+  reward_0:
+    item: diamond 59
+    chance: 3
+
+  reward_1:
+    item: diamond 32
+    chance: 11
+
+  reward_2:
+    item: diamond 26
+    chance: 26
+
+  reward_3:
+    item: diamond 7
+    chance: 19
+
+  reward_4:
+    item: diamond 8
+    chance: 27
+
+  reward_5:
+    item: diamond 21
+    chance: 25
+
+  reward_6:
+    item: diamond 62
+    chance: 23
+
+  reward_7:
+    item: diamond 40
+    chance: 6
+
+  reward_8:
+    item: diamond 41
+    chance: 27
+
+  reward_9:
+    item: diamond 49
+    chance: 5
+
+  reward_10:
+    item: diamond 32
+    chance: 17
+
+  reward_11:
+    item: diamond 34
+    chance: 29
+
+  reward_12:
+    item: diamond 21
+    chance: 25
+
+  reward_13:
+    item: diamond 45
+    chance: 9
+
+  reward_14:
+    item: diamond 9
+    chance: 27
+
+  reward_15:
+    item: diamond 51
+    chance: 20
+
+  reward_16:
+    item: diamond 53
+    chance: 2
+
+  reward_17:
+    item: diamond 56
+    chance: 1
+
+  reward_18:
+    item: diamond 34
+    chance: 26
+
+  reward_19:
+    item: diamond 38
+    chance: 1

@@ -1,0 +1,75 @@
+events:
+
+  event_0:
+    interval: 30m
+    reward: crate_key legendary
+
+
+  event_1:
+    interval: 34m
+    reward: crate_key legendary
+
+
+  event_2:
+    interval: 104m
+    reward: crate_key legendary
+
+
+  event_3:
+    interval: 76m
+    reward: crate_key legendary
+
+
+  event_4:
+    interval: 158m
+    reward: crate_key legendary
+
+
+  event_5:
+    interval: 115m
+    reward: crate_key legendary
+
+
+  event_6:
+    interval: 118m
+    reward: crate_key legendary
+
+
+  event_7:
+    interval: 152m
+    reward: crate_key legendary
+
+
+  event_8:
+    interval: 48m
+    reward: crate_key legendary
+
+
+  event_9:
+    interval: 47m
+    reward: crate_key legendary
+
+
+  event_10:
+    interval: 47m
+    reward: crate_key legendary
+
+
+  event_11:
+    interval: 166m
+    reward: crate_key legendary
+
+
+  event_12:
+    interval: 31m
+    reward: crate_key legendary
+
+
+  event_13:
+    interval: 171m
+    reward: crate_key legendary
+
+
+  event_14:
+    interval: 133m
+    reward: crate_key legendary

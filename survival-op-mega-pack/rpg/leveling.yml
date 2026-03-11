@@ -1,0 +1,4 @@
+leveling:
+  xp-per-level: 1200
+  xp-scale: 1.12
+  max-level: 200

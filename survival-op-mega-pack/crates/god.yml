@@ -1,0 +1,84 @@
+crate:
+  name: God
+  key: god_key
+  rewards:
+
+  reward_0:
+    item: diamond 7
+    chance: 28
+
+  reward_1:
+    item: diamond 12
+    chance: 11
+
+  reward_2:
+    item: diamond 44
+    chance: 5
+
+  reward_3:
+    item: diamond 53
+    chance: 17
+
+  reward_4:
+    item: diamond 57
+    chance: 21
+
+  reward_5:
+    item: diamond 56
+    chance: 1
+
+  reward_6:
+    item: diamond 6
+    chance: 11
+
+  reward_7:
+    item: diamond 35
+    chance: 14
+
+  reward_8:
+    item: diamond 53
+    chance: 26
+
+  reward_9:
+    item: diamond 32
+    chance: 15
+
+  reward_10:
+    item: diamond 29
+    chance: 7
+
+  reward_11:
+    item: diamond 51
+    chance: 12
+
+  reward_12:
+    item: diamond 25
+    chance: 8
+
+  reward_13:
+    item: diamond 38
+    chance: 16
+
+  reward_14:
+    item: diamond 22
+    chance: 12
+
+  reward_15:
+    item: diamond 32
+    chance: 28
+
+  reward_16:
+    item: diamond 49
+    chance: 30
+
+  reward_17:
+    item: diamond 62
+    chance: 19
+
+  reward_18:
+    item: diamond 7
+    chance: 21
+
+  reward_19:
+    item: diamond 60
+    chance: 21

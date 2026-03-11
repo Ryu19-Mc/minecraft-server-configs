@@ -1,0 +1,84 @@
+crate:
+  name: Epic
+  key: epic_key
+  rewards:
+
+  reward_0:
+    item: diamond 43
+    chance: 9
+
+  reward_1:
+    item: diamond 59
+    chance: 8
+
+  reward_2:
+    item: diamond 16
+    chance: 14
+
+  reward_3:
+    item: diamond 42
+    chance: 16
+
+  reward_4:
+    item: diamond 12
+    chance: 1
+
+  reward_5:
+    item: diamond 17
+    chance: 24
+
+  reward_6:
+    item: diamond 58
+    chance: 25
+
+  reward_7:
+    item: diamond 54
+    chance: 28
+
+  reward_8:
+    item: diamond 6
+    chance: 29
+
+  reward_9:
+    item: diamond 24
+    chance: 19
+
+  reward_10:
+    item: diamond 10
+    chance: 7
+
+  reward_11:
+    item: diamond 37
+    chance: 21
+
+  reward_12:
+    item: diamond 4
+    chance: 23
+
+  reward_13:
+    item: diamond 27
+    chance: 29
+
+  reward_14:
+    item: diamond 24
+    chance: 8
+
+  reward_15:
+    item: diamond 20
+    chance: 3
+
+  reward_16:
+    item: diamond 25
+    chance: 22
+
+  reward_17:
+    item: diamond 13
+    chance: 8
+
+  reward_18:
+    item: diamond 15
+    chance: 7
+
+  reward_19:
+    item: diamond 58
+    chance: 25

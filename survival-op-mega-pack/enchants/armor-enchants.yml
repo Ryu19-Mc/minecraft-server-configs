@@ -1,0 +1,125 @@
+enchants:
+
+  armor_enchant_0:
+    max-level: 8
+    description: armor enchant 0
+
+
+  armor_enchant_1:
+    max-level: 2
+    description: armor enchant 1
+
+
+  armor_enchant_2:
+    max-level: 2
+    description: armor enchant 2
+
+
+  armor_enchant_3:
+    max-level: 2
+    description: armor enchant 3
+
+
+  armor_enchant_4:
+    max-level: 5
+    description: armor enchant 4
+
+
+  armor_enchant_5:
+    max-level: 7
+    description: armor enchant 5
+
+
+  armor_enchant_6:
+    max-level: 4
+    description: armor enchant 6
+
+
+  armor_enchant_7:
+    max-level: 2
+    description: armor enchant 7
+
+
+  armor_enchant_8:
+    max-level: 5
+    description: armor enchant 8
+
+
+  armor_enchant_9:
+    max-level: 5
+    description: armor enchant 9
+
+
+  armor_enchant_10:
+    max-level: 6
+    description: armor enchant 10
+
+
+  armor_enchant_11:
+    max-level: 5
+    description: armor enchant 11
+
+
+  armor_enchant_12:
+    max-level: 3
+    description: armor enchant 12
+
+
+  armor_enchant_13:
+    max-level: 6
+    description: armor enchant 13
+
+
+  armor_enchant_14:
+    max-level: 4
+    description: armor enchant 14
+
+
+  armor_enchant_15:
+    max-level: 6
+    description: armor enchant 15
+
+
+  armor_enchant_16:
+    max-level: 4
+    description: armor enchant 16
+
+
+  armor_enchant_17:
+    max-level: 2
+    description: armor enchant 17
+
+
+  armor_enchant_18:
+    max-level: 5
+    description: armor enchant 18
+
+
+  armor_enchant_19:
+    max-level: 2
+    description: armor enchant 19
+
+
+  armor_enchant_20:
+    max-level: 4
+    description: armor enchant 20
+
+
+  armor_enchant_21:
+    max-level: 6
+    description: armor enchant 21
+
+
+  armor_enchant_22:
+    max-level: 3
+    description: armor enchant 22
+
+
+  armor_enchant_23:
+    max-level: 7
+    description: armor enchant 23
+
+
+  armor_enchant_24:
+    max-level: 3
+    description: armor enchant 24

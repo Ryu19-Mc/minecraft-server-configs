@@ -1,0 +1,150 @@
+loot_tables:
+
+  chest_0:
+    - diamond 6
+    - emerald 7
+    - golden_apple 3
+
+
+  chest_1:
+    - diamond 9
+    - emerald 7
+    - golden_apple 3
+
+
+  chest_2:
+    - diamond 5
+    - emerald 3
+    - golden_apple 2
+
+
+  chest_3:
+    - diamond 2
+    - emerald 6
+    - golden_apple 1
+
+
+  chest_4:
+    - diamond 10
+    - emerald 8
+    - golden_apple 3
+
+
+  chest_5:
+    - diamond 1
+    - emerald 3
+    - golden_apple 4
+
+
+  chest_6:
+    - diamond 5
+    - emerald 8
+    - golden_apple 5
+
+
+  chest_7:
+    - diamond 10
+    - emerald 8
+    - golden_apple 5
+
+
+  chest_8:
+    - diamond 6
+    - emerald 6
+    - golden_apple 4
+
+
+  chest_9:
+    - diamond 5
+    - emerald 8
+    - golden_apple 2
+
+
+  chest_10:
+    - diamond 2
+    - emerald 1
+    - golden_apple 4
+
+
+  chest_11:
+    - diamond 2
+    - emerald 8
+    - golden_apple 1
+
+
+  chest_12:
+    - diamond 4
+    - emerald 4
+    - golden_apple 1
+
+
+  chest_13:
+    - diamond 1
+    - emerald 8
+    - golden_apple 1
+
+
+  chest_14:
+    - diamond 8
+    - emerald 4
+    - golden_apple 3
+
+
+  chest_15:
+    - diamond 1
+    - emerald 5
+    - golden_apple 4
+
+
+  chest_16:
+    - diamond 6
+    - emerald 7
+    - golden_apple 5
+
+
+  chest_17:
+    - diamond 2
+    - emerald 2
+    - golden_apple 2
+
+
+  chest_18:
+    - diamond 4
+    - emerald 2
+    - golden_apple 2
+
+
+  chest_19:
+    - diamond 7
+    - emerald 2
+    - golden_apple 4
+
+
+  chest_20:
+    - diamond 1
+    - emerald 1
+    - golden_apple 3
+
+
+  chest_21:
+    - diamond 1
+    - emerald 8
+    - golden_apple 5
+
+
+  chest_22:
+    - diamond 7
+    - emerald 7
+    - golden_apple 5
+
+
+  chest_23:
+    - diamond 3
+    - emerald 3
+    - golden_apple 3
+
+
+  chest_24:
+    - diamond 2
+    - emerald 6
+    - golden_apple 1

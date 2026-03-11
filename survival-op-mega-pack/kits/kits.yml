@@ -1,0 +1,96 @@
+kits:
+
+  kit_0:
+    delay: 38h
+    items:
+      - diamond_sword sharpness:5
+      - diamond_pickaxe efficiency:7
+      - golden_apple 14
+
+
+  kit_1:
+    delay: 49h
+    items:
+      - diamond_sword sharpness:5
+      - diamond_pickaxe efficiency:8
+      - golden_apple 4
+
+
+  kit_2:
+    delay: 58h
+    items:
+      - diamond_sword sharpness:5
+      - diamond_pickaxe efficiency:7
+      - golden_apple 15
+
+
+  kit_3:
+    delay: 61h
+    items:
+      - diamond_sword sharpness:4
+      - diamond_pickaxe efficiency:7
+      - golden_apple 14
+
+
+  kit_4:
+    delay: 38h
+    items:
+      - diamond_sword sharpness:6
+      - diamond_pickaxe efficiency:6
+      - golden_apple 4
+
+
+  kit_5:
+    delay: 13h
+    items:
+      - diamond_sword sharpness:6
+      - diamond_pickaxe efficiency:6
+      - golden_apple 16
+
+
+  kit_6:
+    delay: 34h
+    items:
+      - diamond_sword sharpness:8
+      - diamond_pickaxe efficiency:7
+      - golden_apple 13
+
+
+  kit_7:
+    delay: 14h
+    items:
+      - diamond_sword sharpness:5
+      - diamond_pickaxe efficiency:5
+      - golden_apple 7
+
+
+  kit_8:
+    delay: 47h
+    items:
+      - diamond_sword sharpness:7
+      - diamond_pickaxe efficiency:8
+      - golden_apple 13
+
+
+  kit_9:
+    delay: 46h
+    items:
+      - diamond_sword sharpness:7
+      - diamond_pickaxe efficiency:5
+      - golden_apple 10
+
+
+  kit_10:
+    delay: 61h
+    items:
+      - diamond_sword sharpness:4
+      - diamond_pickaxe efficiency:8
+      - golden_apple 14
+
+
+  kit_11:
+    delay: 47h
+    items:
+      - diamond_sword sharpness:6
+      - diamond_pickaxe efficiency:8
+      - golden_apple 16

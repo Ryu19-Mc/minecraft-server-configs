@@ -1,0 +1,360 @@
+shop:
+
+  item_0:
+    material: beacon
+    buy: 60991
+    sell: 24396
+
+
+  item_1:
+    material: beacon
+    buy: 135469
+    sell: 54187
+
+
+  item_2:
+    material: netherite_ingot
+    buy: 10807
+    sell: 4322
+
+
+  item_3:
+    material: diamond
+    buy: 5166
+    sell: 2066
+
+
+  item_4:
+    material: gold_ingot
+    buy: 198568
+    sell: 79427
+
+
+  item_5:
+    material: elytra
+    buy: 58672
+    sell: 23468
+
+
+  item_6:
+    material: elytra
+    buy: 9170
+    sell: 3668
+
+
+  item_7:
+    material: beacon
+    buy: 80508
+    sell: 32203
+
+
+  item_8:
+    material: elytra
+    buy: 87272
+    sell: 34908
+
+
+  item_9:
+    material: diamond
+    buy: 114037
+    sell: 45614
+
+
+  item_10:
+    material: gold_ingot
+    buy: 125039
+    sell: 50015
+
+
+  item_11:
+    material: iron_ingot
+    buy: 82701
+    sell: 33080
+
+
+  item_12:
+    material: elytra
+    buy: 6126
+    sell: 2450
+
+
+  item_13:
+    material: iron_ingot
+    buy: 102129
+    sell: 40851
+
+
+  item_14:
+    material: diamond
+    buy: 32217
+    sell: 12886
+
+
+  item_15:
+    material: diamond
+    buy: 32443
+    sell: 12977
+
+
+  item_16:
+    material: gold_ingot
+    buy: 87593
+    sell: 35037
+
+
+  item_17:
+    material: beacon
+    buy: 54612
+    sell: 21844
+
+
+  item_18:
+    material: emerald
+    buy: 168153
+    sell: 67261
+
+
+  item_19:
+    material: diamond
+    buy: 103929
+    sell: 41571
+
+
+  item_20:
+    material: beacon
+    buy: 13088
+    sell: 5235
+
+
+  item_21:
+    material: beacon
+    buy: 37628
+    sell: 15051
+
+
+  item_22:
+    material: netherite_ingot
+    buy: 72682
+    sell: 29072
+
+
+  item_23:
+    material: elytra
+    buy: 90094
+    sell: 36037
+
+
+  item_24:
+    material: diamond
+    buy: 191709
+    sell: 76683
+
+
+  item_25:
+    material: emerald
+    buy: 87684
+    sell: 35073
+
+
+  item_26:
+    material: diamond
+    buy: 131205
+    sell: 52482
+
+
+  item_27:
+    material: elytra
+    buy: 159748
+    sell: 63899
+
+
+  item_28:
+    material: iron_ingot
+    buy: 38966
+    sell: 15586
+
+
+  item_29:
+    material: diamond
+    buy: 189560
+    sell: 75824
+
+
+  item_30:
+    material: emerald
+    buy: 168459
+    sell: 67383
+
+
+  item_31:
+    material: gold_ingot
+    buy: 91243
+    sell: 36497
+
+
+  item_32:
+    material: beacon
+    buy: 178593
+    sell: 71437
+
+
+  item_33:
+    material: elytra
+    buy: 56198
+    sell: 22479
+
+
+  item_34:
+    material: iron_ingot
+    buy: 91069
+    sell: 36427
+
+
+  item_35:
+    material: netherite_ingot
+    buy: 26100
+    sell: 10440
+
+
+  item_36:
+    material: netherite_ingot
+    buy: 156912
+    sell: 62764
+
+
+  item_37:
+    material: beacon
+    buy: 109321
+    sell: 43728
+
+
+  item_38:
+    material: netherite_ingot
+    buy: 77492
+    sell: 30996
+
+
+  item_39:
+    material: emerald
+    buy: 86099
+    sell: 34439
+
+
+  item_40:
+    material: gold_ingot
+    buy: 11177
+    sell: 4470
+
+
+  item_41:
+    material: gold_ingot
+    buy: 13330
+    sell: 5332
+
+
+  item_42:
+    material: iron_ingot
+    buy: 99428
+    sell: 39771
+
+
+  item_43:
+    material: iron_ingot
+    buy: 183237
+    sell: 73294
+
+
+  item_44:
+    material: diamond
+    buy: 172479
+    sell: 68991
+
+
+  item_45:
+    material: beacon
+    buy: 113922
+    sell: 45568
+
+
+  item_46:
+    material: emerald
+    buy: 4445
+    sell: 1778
+
+
+  item_47:
+    material: diamond
+    buy: 84767
+    sell: 33906
+
+
+  item_48:
+    material: emerald
+    buy: 1774
+    sell: 709
+
+
+  item_49:
+    material: iron_ingot
+    buy: 157707
+    sell: 63082
+
+
+  item_50:
+    material: gold_ingot
+    buy: 71497
+    sell: 28598
+
+
+  item_51:
+    material: emerald
+    buy: 5719
+    sell: 2287
+
+
+  item_52:
+    material: gold_ingot
+    buy: 72097
+    sell: 28838
+
+
+  item_53:
+    material: diamond
+    buy: 121902
+    sell: 48760
+
+
+  item_54:
+    material: gold_ingot
+    buy: 52396
+    sell: 20958
+
+
+  item_55:
+    material: elytra
+    buy: 41602
+    sell: 16640
+
+
+  item_56:
+    material: elytra
+    buy: 93477
+    sell: 37390
+
+
+  item_57:
+    material: elytra
+    buy: 24877
+    sell: 9950
+
+
+  item_58:
+    material: netherite_ingot
+    buy: 83407
+    sell: 33362
+
+
+  item_59:
+    material: gold_ingot
+    buy: 124928
+    sell: 49971

@@ -1,0 +1,80 @@
+bosses:
+
+  boss_0:
+    health: 4771
+    damage: 28
+    drops:
+      - netherite_ingot 6
+      - crate_key mythic
+
+
+  boss_1:
+    health: 9667
+    damage: 17
+    drops:
+      - netherite_ingot 7
+      - crate_key mythic
+
+
+  boss_2:
+    health: 3826
+    damage: 12
+    drops:
+      - netherite_ingot 7
+      - crate_key mythic
+
+
+  boss_3:
+    health: 10868
+    damage: 31
+    drops:
+      - netherite_ingot 10
+      - crate_key mythic
+
+
+  boss_4:
+    health: 8558
+    damage: 35
+    drops:
+      - netherite_ingot 10
+      - crate_key mythic
+
+
+  boss_5:
+    health: 6666
+    damage: 16
+    drops:
+      - netherite_ingot 3
+      - crate_key mythic
+
+
+  boss_6:
+    health: 8022
+    damage: 34
+    drops:
+      - netherite_ingot 8
+      - crate_key mythic
+
+
+  boss_7:
+    health: 8407
+    damage: 29
+    drops:
+      - netherite_ingot 2
+      - crate_key mythic
+
+
+  boss_8:
+    health: 11511
+    damage: 10
+    drops:
+      - netherite_ingot 8
+      - crate_key mythic
+
+
+  boss_9:
+    health: 3992
+    damage: 25
+    drops:
+      - netherite_ingot 7
+      - crate_key mythic

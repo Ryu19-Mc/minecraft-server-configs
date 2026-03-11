@@ -1,0 +1,84 @@
+crate:
+  name: Daily
+  key: daily_key
+  rewards:
+
+  reward_0:
+    item: diamond 39
+    chance: 24
+
+  reward_1:
+    item: diamond 35
+    chance: 13
+
+  reward_2:
+    item: diamond 29
+    chance: 14
+
+  reward_3:
+    item: diamond 12
+    chance: 28
+
+  reward_4:
+    item: diamond 35
+    chance: 21
+
+  reward_5:
+    item: diamond 34
+    chance: 23
+
+  reward_6:
+    item: diamond 37
+    chance: 20
+
+  reward_7:
+    item: diamond 48
+    chance: 26
+
+  reward_8:
+    item: diamond 22
+    chance: 25
+
+  reward_9:
+    item: diamond 55
+    chance: 1
+
+  reward_10:
+    item: diamond 29
+    chance: 13
+
+  reward_11:
+    item: diamond 25
+    chance: 5
+
+  reward_12:
+    item: diamond 50
+    chance: 16
+
+  reward_13:
+    item: diamond 21
+    chance: 30
+
+  reward_14:
+    item: diamond 59
+    chance: 11
+
+  reward_15:
+    item: diamond 43
+    chance: 16
+
+  reward_16:
+    item: diamond 18
+    chance: 15
+
+  reward_17:
+    item: diamond 49
+    chance: 10
+
+  reward_18:
+    item: diamond 48
+    chance: 14
+
+  reward_19:
+    item: diamond 34
+    chance: 8

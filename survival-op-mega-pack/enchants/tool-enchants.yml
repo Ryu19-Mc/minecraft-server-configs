@@ -1,0 +1,125 @@
+enchants:
+
+  tool_enchant_0:
+    max-level: 6
+    description: tool enchant 0
+
+
+  tool_enchant_1:
+    max-level: 2
+    description: tool enchant 1
+
+
+  tool_enchant_2:
+    max-level: 4
+    description: tool enchant 2
+
+
+  tool_enchant_3:
+    max-level: 7
+    description: tool enchant 3
+
+
+  tool_enchant_4:
+    max-level: 2
+    description: tool enchant 4
+
+
+  tool_enchant_5:
+    max-level: 3
+    description: tool enchant 5
+
+
+  tool_enchant_6:
+    max-level: 2
+    description: tool enchant 6
+
+
+  tool_enchant_7:
+    max-level: 5
+    description: tool enchant 7
+
+
+  tool_enchant_8:
+    max-level: 3
+    description: tool enchant 8
+
+
+  tool_enchant_9:
+    max-level: 5
+    description: tool enchant 9
+
+
+  tool_enchant_10:
+    max-level: 2
+    description: tool enchant 10
+
+
+  tool_enchant_11:
+    max-level: 5
+    description: tool enchant 11
+
+
+  tool_enchant_12:
+    max-level: 2
+    description: tool enchant 12
+
+
+  tool_enchant_13:
+    max-level: 6
+    description: tool enchant 13
+
+
+  tool_enchant_14:
+    max-level: 3
+    description: tool enchant 14
+
+
+  tool_enchant_15:
+    max-level: 3
+    description: tool enchant 15
+
+
+  tool_enchant_16:
+    max-level: 6
+    description: tool enchant 16
+
+
+  tool_enchant_17:
+    max-level: 5
+    description: tool enchant 17
+
+
+  tool_enchant_18:
+    max-level: 5
+    description: tool enchant 18
+
+
+  tool_enchant_19:
+    max-level: 7
+    description: tool enchant 19
+
+
+  tool_enchant_20:
+    max-level: 7
+    description: tool enchant 20
+
+
+  tool_enchant_21:
+    max-level: 5
+    description: tool enchant 21
+
+
+  tool_enchant_22:
+    max-level: 4
+    description: tool enchant 22
+
+
+  tool_enchant_23:
+    max-level: 5
+    description: tool enchant 23
+
+
+  tool_enchant_24:
+    max-level: 6
+    description: tool enchant 24

@@ -1,0 +1,144 @@
+menu:
+  title: "&6Server Menu"
+  size: 54
+  items:
+
+    item_0:
+      material: DIAMOND
+      slot: 0
+      name: "&bMenu Item 0"
+      commands:
+        - "say menu item 0"
+
+    item_1:
+      material: DIAMOND
+      slot: 1
+      name: "&bMenu Item 1"
+      commands:
+        - "say menu item 1"
+
+    item_2:
+      material: DIAMOND
+      slot: 2
+      name: "&bMenu Item 2"
+      commands:
+        - "say menu item 2"
+
+    item_3:
+      material: DIAMOND
+      slot: 3
+      name: "&bMenu Item 3"
+      commands:
+        - "say menu item 3"
+
+    item_4:
+      material: DIAMOND
+      slot: 4
+      name: "&bMenu Item 4"
+      commands:
+        - "say menu item 4"
+
+    item_5:
+      material: DIAMOND
+      slot: 5
+      name: "&bMenu Item 5"
+      commands:
+        - "say menu item 5"
+
+    item_6:
+      material: DIAMOND
+      slot: 6
+      name: "&bMenu Item 6"
+      commands:
+        - "say menu item 6"
+
+    item_7:
+      material: DIAMOND
+      slot: 7
+      name: "&bMenu Item 7"
+      commands:
+        - "say menu item 7"
+
+    item_8:
+      material: DIAMOND
+      slot: 8
+      name: "&bMenu Item 8"
+      commands:
+        - "say menu item 8"
+
+    item_9:
+      material: DIAMOND
+      slot: 9
+      name: "&bMenu Item 9"
+      commands:
+        - "say menu item 9"
+
+    item_10:
+      material: DIAMOND
+      slot: 10
+      name: "&bMenu Item 10"
+      commands:
+        - "say menu item 10"
+
+    item_11:
+      material: DIAMOND
+      slot: 11
+      name: "&bMenu Item 11"
+      commands:
+        - "say menu item 11"
+
+    item_12:
+      material: DIAMOND
+      slot: 12
+      name: "&bMenu Item 12"
+      commands:
+        - "say menu item 12"
+
+    item_13:
+      material: DIAMOND
+      slot: 13
+      name: "&bMenu Item 13"
+      commands:
+        - "say menu item 13"
+
+    item_14:
+      material: DIAMOND
+      slot: 14
+      name: "&bMenu Item 14"
+      commands:
+        - "say menu item 14"
+
+    item_15:
+      material: DIAMOND
+      slot: 15
+      name: "&bMenu Item 15"
+      commands:
+        - "say menu item 15"
+
+    item_16:
+      material: DIAMOND
+      slot: 16
+      name: "&bMenu Item 16"
+      commands:
+        - "say menu item 16"
+
+    item_17:
+      material: DIAMOND
+      slot: 17
+      name: "&bMenu Item 17"
+      commands:
+        - "say menu item 17"
+
+    item_18:
+      material: DIAMOND
+      slot: 18
+      name: "&bMenu Item 18"
+      commands:
+        - "say menu item 18"
+
+    item_19:
+      material: DIAMOND
+      slot: 19
+      name: "&bMenu Item 19"
+      commands:
+        - "say menu item 19"
