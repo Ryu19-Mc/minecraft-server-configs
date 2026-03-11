@@ -1,0 +1,190 @@
+scoreboards:
+
+# ==================================================
+# 1 SHADOWCORE
+# ==================================================
+
+  shadowcore:
+    title: "&5&l✦ SHADOWCORE ✦"
+    lines:
+      - "&8&m----------------------"
+      - "&fJugador » &a%player%"
+      - "&fRango » %luckperms_prefix%"
+      - "&fNivel » &d%player_level%"
+      - "&fDinero » &6$%vault_eco_balance%"
+      - "&fPing » &a%player_ping%"
+      - "&fTPS » &e%server_tps%"
+      - "&fOnline » &b%server_online%"
+      - "&7"
+      - "&dZona PvP activa"
+      - "&7Usa /warp pvp"
+      - "&8&m----------------------"
+      - "&5play.shadowcore.net"
+
+# ==================================================
+# 2 LUNARCRAFT
+# ==================================================
+
+  lunarcraft:
+    title: "&9&l☾ LUNARCRAFT"
+    lines:
+      - "&8&m----------------------"
+      - "&fJugador » &a%player%"
+      - "&fRango » %luckperms_prefix%"
+      - "&fKills » &c%statistic_player_kills%"
+      - "&fDeaths » &7%statistic_deaths%"
+      - "&fNivel » &d%player_level%"
+      - "&fDinero » &6$%vault_eco_balance%"
+      - "&7"
+      - "&bEvento activo"
+      - "&fMeteor Shower"
+      - "&7"
+      - "&8&m----------------------"
+      - "&blunarcraft.net"
+
+# ==================================================
+# 3 TITANMC
+# ==================================================
+
+  titanmc:
+    title: "&c&l⚔ TITANMC"
+    lines:
+      - "&8&m----------------------"
+      - "&fJugador » &a%player%"
+      - "&fRango » %luckperms_prefix%"
+      - "&fPoder » &c%player_level%"
+      - "&fDinero » &6$%vault_eco_balance%"
+      - "&fPing » &a%player_ping%"
+      - "&fOnline » &e%server_online%"
+      - "&7"
+      - "&cZona PvP abierta"
+      - "&fRecompensas activas"
+      - "&7"
+      - "&8&m----------------------"
+      - "&ctitanmc.net"
+
+# ==================================================
+# 4 ETERNALMC
+# ==================================================
+
+  eternalmc:
+    title: "&5&l✦ ETERNALMC"
+    lines:
+      - "&8&m----------------------"
+      - "&fJugador » &a%player%"
+      - "&fRango » %luckperms_prefix%"
+      - "&fNivel » &d%player_level%"
+      - "&fBalance » &6$%vault_eco_balance%"
+      - "&fPing » &a%player_ping%"
+      - "&fOnline » &e%server_online%"
+      - "&7"
+      - "&5Evento Lunar"
+      - "&fDrops dobles"
+      - "&7"
+      - "&8&m----------------------"
+      - "&5eternalmc.net"
+
+# ==================================================
+# 5 SALIKNETWORK
+# ==================================================
+
+  saliknetwork:
+    title: "&c&l⚡ SALIKNETWORK"
+    lines:
+      - "&8&m----------------------"
+      - "&fJugador » &a%player%"
+      - "&fRango » %luckperms_prefix%"
+      - "&fNivel » &d%player_level%"
+      - "&fDinero » &6$%vault_eco_balance%"
+      - "&fKills » &c%statistic_player_kills%"
+      - "&fPing » &a%player_ping%"
+      - "&7"
+      - "&cEvento activo"
+      - "&fBoss Demon"
+      - "&7"
+      - "&8&m----------------------"
+      - "&csalikmc.net"
+
+# ==================================================
+# 6 SULTANMC
+# ==================================================
+
+  sultanmc:
+    title: "&e&l♛ SULTANMC"
+    lines:
+      - "&8&m----------------------"
+      - "&fJugador » &a%player%"
+      - "&fRango » %luckperms_prefix%"
+      - "&fNivel » &d%player_level%"
+      - "&fBalance » &6$%vault_eco_balance%"
+      - "&fOnline » &e%server_online%"
+      - "&fPing » &a%player_ping%"
+      - "&7"
+      - "&eEvento Arena"
+      - "&fPvP Royal activo"
+      - "&7"
+      - "&8&m----------------------"
+      - "&esultanmc.net"
+
+# ==================================================
+# 7 TIFONMC
+# ==================================================
+
+  tifonmc:
+    title: "&b&l☬ TIFONMC"
+    lines:
+      - "&8&m----------------------"
+      - "&fJugador » &a%player%"
+      - "&fRango » %luckperms_prefix%"
+      - "&fKills » &c%statistic_player_kills%"
+      - "&fDeaths » &7%statistic_deaths%"
+      - "&fDinero » &6$%vault_eco_balance%"
+      - "&fOnline » &e%server_online%"
+      - "&7"
+      - "&bEvento tormenta"
+      - "&fLoot aumentado"
+      - "&7"
+      - "&8&m----------------------"
+      - "&btifonmc.net"
+
+# ==================================================
+# 8 LEGENDCRAFT
+# ==================================================
+
+  legendcraft:
+    title: "&6&l★ LEGENDCRAFT"
+    lines:
+      - "&8&m----------------------"
+      - "&fJugador » &a%player%"
+      - "&fRango » %luckperms_prefix%"
+      - "&fNivel » &d%player_level%"
+      - "&fDinero » &6$%vault_eco_balance%"
+      - "&fOnline » &e%server_online%"
+      - "&fPing » &a%player_ping%"
+      - "&7"
+      - "&6Evento Legendario"
+      - "&fCrates activas"
+      - "&7"
+      - "&8&m----------------------"
+      - "&6legendcraft.net"
+
+# ==================================================
+# 9 VOIDREALM
+# ==================================================
+
+  voidrealm:
+    title: "&5&l☠ VOIDREALM"
+    lines:
+      - "&8&m----------------------"
+      - "&fJugador » &a%player%"
+      - "&fRango » %luckperms_prefix%"
+      - "&fNivel » &d%player_level%"
+      - "&fBalance » &6$%vault_eco_balance%"
+      - "&fPing » &a%player_ping%"
+      - "&fOnline » &e%server_online%"
+      - "&7"
+      - "&5Evento VoidBoss"
+      - "&fDrop mítico"
+      - "&7"
+      - "&8&m----------------------"
+      - "&5voidrealm.net"
