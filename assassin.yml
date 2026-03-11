@@ -1,0 +1,21 @@
+kit:
+  name: assassin
+  cooldown: 4200
+  role: stealth
+
+  armor:
+    helmet: chainmail_helmet
+    chestplate: chainmail_chestplate
+    leggings: chainmail_leggings
+    boots: chainmail_boots
+
+  weapon:
+    item: iron_sword sharpness:2
+
+  abilities:
+    - speed:5s
+    - invisibility:3s
+
+  items:
+    - potion:speed 1
+    - potion:invisibility 1
