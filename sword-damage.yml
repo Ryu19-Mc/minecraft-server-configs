@@ -1,0 +1,9 @@
+weapons:
+  wooden_sword: 4
+  stone_sword: 5
+  iron_sword: 6
+  diamond_sword: 7
+  netherite_sword: 8
+
+critical-hit-multiplier: 1.5
+attack-speed-default: 1.6
