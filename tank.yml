@@ -1,0 +1,19 @@
+kit:
+  name: tank
+  cooldown: 5400
+  role: defense
+
+  armor:
+    helmet: diamond_helmet protection:2
+    chestplate: diamond_chestplate protection:3
+    leggings: diamond_leggings protection:2
+    boots: diamond_boots protection:2
+
+  weapon:
+    item: iron_sword knockback:1
+
+  abilities:
+    - resistance:5s
+
+  items:
+    - golden_apple 2
