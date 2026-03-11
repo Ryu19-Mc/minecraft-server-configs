@@ -1,0 +1,191 @@
+ranks:
+
+# =========================
+# PROGRESION SURVIVAL OP
+# =========================
+
+  default:
+    weight: 1
+    prefix: "&7[&fPlayer&7] "
+    permissions:
+      - essentials.spawn
+      - essentials.home
+      - essentials.sethome
+
+  coal:
+    weight: 5
+    prefix: "&8[&7Coal&8] "
+    permissions:
+      - essentials.kit.coal
+
+  iron:
+    weight: 10
+    prefix: "&8[&fIron&8] "
+    permissions:
+      - essentials.kit.iron
+
+  gold:
+    weight: 20
+    prefix: "&8[&6Gold&8] "
+    permissions:
+      - essentials.kit.gold
+
+  emerald:
+    weight: 30
+    prefix: "&8[&aEmerald&8] "
+    permissions:
+      - essentials.kit.emerald
+
+  diamond:
+    weight: 40
+    prefix: "&8[&bDiamond&8] "
+    permissions:
+      - essentials.kit.diamond
+
+  netherite:
+    weight: 50
+    prefix: "&8[&8Netherite&8] "
+    permissions:
+      - essentials.kit.netherite
+
+  titan:
+    weight: 60
+    prefix: "&8[&cTitan&8] "
+    permissions:
+      - essentials.kit.titan
+
+  overlord:
+    weight: 70
+    prefix: "&8[&5Overlord&8] "
+    permissions:
+      - essentials.kit.overlord
+
+  immortal:
+    weight: 80
+    prefix: "&8[&dImmortal&8] "
+    permissions:
+      - essentials.kit.immortal
+
+  celestial:
+    weight: 90
+    prefix: "&8[&3Celestial&8] "
+    permissions:
+      - essentials.kit.celestial
+
+  eternal:
+    weight: 100
+    prefix: "&8[&5✦ Eternal&8] "
+    permissions:
+      - essentials.kit.eternal
+
+  lunar:
+    weight: 110
+    prefix: "&8[&9☾ Lunar&8] "
+    permissions:
+      - essentials.kit.lunar
+
+  legendario:
+    weight: 120
+    prefix: "&8[&6★ Legendario&8] "
+    permissions:
+      - essentials.kit.legendario
+
+  kalito:
+    weight: 130
+    prefix: "&8[&d✧ Kalito&8] "
+    permissions:
+      - essentials.kit.kalito
+
+  sultan:
+    weight: 140
+    prefix: "&8[&e♛ Sultan&8] "
+    permissions:
+      - essentials.kit.sultan
+
+  tifon:
+    weight: 150
+    prefix: "&8[&b☬ Tifon&8] "
+    permissions:
+      - essentials.kit.tifon
+
+  salik:
+    weight: 160
+    prefix: "&8[&c⚡ Salik&8] "
+    permissions:
+      - essentials.kit.salik
+
+  god:
+    weight: 170
+    prefix: "&8[&4☬ GOD ☬&8] "
+    permissions:
+      - essentials.kit.god
+      - essentials.fly
+
+# =========================
+# STAFF
+# =========================
+
+  helper:
+    weight: 200
+    prefix: "&8[&aHelper&8] "
+    permissions:
+      - essentials.kick
+      - essentials.mute
+
+  ctr-helper:
+    weight: 210
+    prefix: "&8[&2CTR-Helper&8] "
+    permissions:
+      - essentials.kick
+      - essentials.mute
+      - essentials.tempban
+
+  t-mod:
+    weight: 220
+    prefix: "&8[&3T-Mod&8] "
+    permissions:
+      - essentials.kick
+      - essentials.mute
+      - essentials.tempban
+
+  mod:
+    weight: 230
+    prefix: "&8[&bMod&8] "
+    permissions:
+      - essentials.ban
+      - essentials.tempban
+      - essentials.warn
+
+  ctr-mod:
+    weight: 240
+    prefix: "&8[&9CTR-Mod&8] "
+    permissions:
+      - essentials.ban
+      - essentials.tempban
+      - essentials.warn
+
+  admin:
+    weight: 250
+    prefix: "&8[&cAdmin&8] "
+    permissions:
+      - essentials.*
+      - luckperms.*
+
+  ctr-admin:
+    weight: 260
+    prefix: "&8[&4CTR-Admin&8] "
+    permissions:
+      - essentials.*
+      - luckperms.*
+
+  manager:
+    weight: 270
+    prefix: "&8[&5Manager&8] "
+    permissions:
+      - "*"
+
+  owner:
+    weight: 300
+    prefix: "&8[&4&lOwner&8] "
+    permissions:
+      - "*"
