@@ -1,0 +1,21 @@
+kit:
+  name: archer
+  cooldown: 3600
+  role: ranged
+
+  armor:
+    helmet: leather_helmet protection:1
+    chestplate: leather_chestplate protection:1
+    leggings: leather_leggings
+    boots: leather_boots
+
+  weapon:
+    bow: power:2 punch:1
+
+  items:
+    - arrow 64
+    - steak 16
+    - golden_apple 1
+
+  abilities:
+    - speed:4s
