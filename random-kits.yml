@@ -1,0 +1,23 @@
+random-kits:
+  enabled: true
+
+  give-on-join: true
+  reroll-on-respawn: true
+  drop-kit-on-death: true
+
+  kits:
+    - starter
+    - warrior
+    - tank
+    - archer
+    - assassin
+
+  balancing:
+    weighted-random: true
+
+    chances:
+      starter: 30
+      warrior: 20
+      tank: 15
+      archer: 20
+      assassin: 15
