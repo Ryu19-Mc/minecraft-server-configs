@@ -1,0 +1,20 @@
+kit:
+  name: warrior
+  cooldown: 3600
+  role: melee
+
+  armor:
+    helmet: iron_helmet protection:2
+    chestplate: iron_chestplate protection:2
+    leggings: iron_leggings protection:1
+    boots: iron_boots
+
+  weapon:
+    item: iron_sword sharpness:2
+
+  abilities:
+    - strength:3s
+
+  items:
+    - golden_apple 2
+    - steak 16
